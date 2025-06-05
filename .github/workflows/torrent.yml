@@ -5,11 +5,11 @@ on:
       - master
       
 env:
-  name: "Android Studio and SDK Tools"
-  comment: "Android Studio for Windows"
-  url: "https://redirector.gvt1.com/edgedl/android/studio/install/4.1.2.0/android-studio-ide-201.7042882-windows.exe"
-  file_name: "android-studio-ide-201.7042882-windows.exe"
-  piece_size: 19 # Check the README.md for recommended piece size
+  name: "Assassin's Creed: Brotherhood"
+  comment: "Assassin's Creed: Brotherhood"
+  url: "https://download131.uploadhaven.com/1/application/zip/rFer4DUYYE1X5izl1lI7dFS4svCR2h3VJQDkYOik.zip?key=Ha9LPyKMpb1drVbEU_EVlw&expire=1749249974&filename=Assassins.Creed.Brotherhood.v1.03.zip"
+  file_name: "Assassin's Creed: Brotherhood"
+  piece_size: 4 194 304 # Check the README.md for recommended piece size
       
 jobs:
   create:
